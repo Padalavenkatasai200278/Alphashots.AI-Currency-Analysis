@@ -19,3 +19,7 @@ Moving Average (SMA)
 Bollinger Bands
 Commodity Channel Index (CCI)
 Trading Decision: Based on the calculated indicators, decisions were made to recommend whether to BUY, SELL, or remain NEUTRAL for the specified time frames.
+
+
+####### what we can do in Future  ######
+In the future, I plan to implement a hybrid predictive model combining machine learning techniques, such as LSTM and Random Forest, to enhance the accuracy of currency pair predictions. Additionally, I will incorporate real-time data and sentiment analysis to continuously refine the model and adapt to market dynamics
